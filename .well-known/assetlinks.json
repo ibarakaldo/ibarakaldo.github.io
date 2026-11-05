@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ibarakaldo.twa",
+        "sha256_cert_fingerprints": ["83:75:11:E0:DB:81:3A:38:DF:19:BF:2C:F1:43:B3:48:D0:A2:1B:D1:F5:8C:4D:C4:58:4B:35:80:B3:E8:A1:4A"]
+      }
+    }]
